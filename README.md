@@ -1,0 +1,1 @@
+# Barra-bola-control-automatico
